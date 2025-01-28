@@ -22,7 +22,7 @@ Welcome to the **Cricket Best 11 Analysis Dashboard**, a Power BI-based interact
 
 1. Clone the repository to your local machine:
     ```bash
-    git https://github.com/AdityaSrivastavDS/Cricket-Best-11-Analysis-Dashboard
+    git https://github.com/realakash140/Cricket-11-Analysis-Dashboard
     ```
 
 2. Open the Power BI file (`Cricket Best 11 Analysis Dashboard.pbix`) in [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
